@@ -1,0 +1,4 @@
+echo "Initial Activity Log" > activity.log
+git add activity.log
+git commit -m "Initial log setup"
+git push
